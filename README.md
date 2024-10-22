@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kkr-97/problem-1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/kkr-97/problem-1/tree/master/1300-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/kkr-97/problem-1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/kkr-97/problem-1/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/kkr-97/problem-1/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
