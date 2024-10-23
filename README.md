@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kkr-97/problem-1/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/kkr-97/problem-1/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kkr-97/problem-1/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
@@ -67,4 +68,12 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/kkr-97/problem-1/tree/master/1300-critical-connections-in-a-network) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kkr-97/problem-1/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kkr-97/problem-1/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
