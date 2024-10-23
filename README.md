@@ -10,6 +10,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kkr-97/problem-1/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/kkr-97/problem-1/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kkr-97/problem-1/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
@@ -17,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kkr-97/problem-1/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/kkr-97/problem-1/tree/master/0125-valid-palindrome) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
 ## Depth-First Search
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kkr-97/problem-1/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kkr-97/problem-1/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
