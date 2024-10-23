@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kkr-97/problem-1/tree/master/0125-valid-palindrome) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
 ## Depth-First Search
 |  |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kkr-97/problem-1/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/kkr-97/problem-1/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
