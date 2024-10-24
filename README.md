@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kkr-97/problem-1/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/kkr-97/problem-1/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kkr-97/problem-1/tree/master/0125-valid-palindrome) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
 ## Depth-First Search
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kkr-97/problem-1/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kkr-97/problem-1/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
