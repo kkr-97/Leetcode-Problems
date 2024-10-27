@@ -5,6 +5,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kkr-97/problem-1/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kkr-97/problem-1/tree/master/0031-next-permutation) |
+| [0078-subsets](https://github.com/kkr-97/problem-1/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/kkr-97/problem-1/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kkr-97/problem-1/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
@@ -97,4 +98,9 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kkr-97/problem-1/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/kkr-97/problem-1/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kkr-97/problem-1/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
