@@ -8,6 +8,7 @@
 | [0059-spiral-matrix-ii](https://github.com/kkr-97/problem-1/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/kkr-97/problem-1/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/kkr-97/problem-1/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kkr-97/problem-1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/kkr-97/problem-1/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkr-97/problem-1/tree/master/2586-longest-square-streak-in-an-array) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kkr-97/problem-1/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kkr-97/problem-1/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Trie
 |  |
 | ------- |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/kkr-97/problem-1/tree/master/0059-spiral-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kkr-97/problem-1/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
