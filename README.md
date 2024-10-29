@@ -5,6 +5,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/kkr-97/problem-1/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/kkr-97/problem-1/tree/master/0031-next-permutation) |
+| [0059-spiral-matrix-ii](https://github.com/kkr-97/problem-1/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/kkr-97/problem-1/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/kkr-97/problem-1/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/kkr-97/problem-1/tree/master/0347-top-k-frequent-elements) |
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkr-97/problem-1/tree/master/2586-longest-square-streak-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/kkr-97/problem-1/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/kkr-97/problem-1/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
