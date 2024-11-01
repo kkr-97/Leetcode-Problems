@@ -30,6 +30,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kkr-97/problem-1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/kkr-97/problem-1/tree/master/0125-valid-palindrome) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/kkr-97/problem-1/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Depth-First Search
 |  |
 | ------- |
