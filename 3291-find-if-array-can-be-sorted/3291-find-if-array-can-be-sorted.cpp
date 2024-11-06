@@ -17,7 +17,7 @@ public:
     }
 
     bool canSortArray(vector<int>& nums) {
-        int prevMin = INT_MAX;
+        // int prevMin = INT_MAX;
         int prevMax = INT_MIN;
         int i = 0, j = 0, l = nums.size();
         while(j < l){
@@ -29,9 +29,9 @@ public:
                 j++;
             }
             if(i != 0){
-                if(prevMax > curMax || prevMin > curMin || prevMax > curMin) return false;
+                if(prevMax > curMin) return false;
             }
-            prevMin = curMin;
+            // prevMin = curMin;
             prevMax = curMax;
             i = j;
 
