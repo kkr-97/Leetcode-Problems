@@ -12,6 +12,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kkr-97/problem-1/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkr-97/problem-1/tree/master/2586-longest-square-streak-in-an-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kkr-97/problem-1/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kkr-97/problem-1/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkr-97/problem-1/tree/master/2586-longest-square-streak-in-an-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kkr-97/problem-1/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kkr-97/problem-1/tree/master/0078-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kkr-97/problem-1/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
 | ------- |
