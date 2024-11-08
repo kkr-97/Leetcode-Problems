@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/kkr-97/problem-1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/kkr-97/problem-1/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/kkr-97/problem-1/tree/master/0721-accounts-merge) |
+| [1940-maximum-xor-for-each-query](https://github.com/kkr-97/problem-1/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kkr-97/problem-1/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkr-97/problem-1/tree/master/2586-longest-square-streak-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kkr-97/problem-1/tree/master/3291-find-if-array-can-be-sorted) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kkr-97/problem-1/tree/master/0078-subsets) |
+| [1940-maximum-xor-for-each-query](https://github.com/kkr-97/problem-1/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kkr-97/problem-1/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kkr-97/problem-1/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/kkr-97/problem-1/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/kkr-97/problem-1/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
