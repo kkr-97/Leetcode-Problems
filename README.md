@@ -14,6 +14,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/kkr-97/problem-1/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/kkr-97/problem-1/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkr-97/problem-1/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/kkr-97/problem-1/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/kkr-97/problem-1/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -102,11 +103,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kkr-97/problem-1/tree/master/0011-container-with-most-water) |
+| [2716-prime-subtraction-operation](https://github.com/kkr-97/problem-1/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kkr-97/problem-1/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kkr-97/problem-1/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2716-prime-subtraction-operation](https://github.com/kkr-97/problem-1/tree/master/2716-prime-subtraction-operation) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/kkr-97/problem-1/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/kkr-97/problem-1/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,4 +157,8 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/kkr-97/problem-1/tree/master/1940-maximum-xor-for-each-query) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/kkr-97/problem-1/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
