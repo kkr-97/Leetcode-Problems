@@ -25,12 +25,9 @@ public:
         int il = items.size();
         int ql = queries.size();
         vector<int> ans;
-        for(int i = 0; i < il; i++){
-            cout << items[i][0] << " " << items[i][1] << endl;
-        }
         for (int i = 1; i < items.size(); i++) {
-        items[i][1] = max(items[i][1], items[i - 1][1]);
-    }
+            items[i][1] = max(items[i][1], items[i - 1][1]);
+        }
         for(int i = 0; i < ql; i++){
             ans.push_back(retrieveBtyItem(queries[i], items));
         }
